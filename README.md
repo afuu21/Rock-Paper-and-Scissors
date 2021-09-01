@@ -1,2 +1,4 @@
 # Rock-Paper-and-Scissors
-A game implemented in python
+The famous game, rock paper and scissors implemented using python.<br>
+Alone? No worries!<br>
+Play with computer!
